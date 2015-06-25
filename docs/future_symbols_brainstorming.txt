@@ -11,6 +11,8 @@ TRY      : U+26A0  : ⚠️
 CATCH    : U+26D4  : ⛔️
 FINALLY  : U+1F3C1 : 🏁
 
+NEW      : U+1F195 : 🆕
+
         Other
 
         Types
@@ -36,7 +38,7 @@ ENUM   : U+1F523                         : 🔣
 
         OOP
 PRIVATE          : U+1F311         : 🌑
-*RESEVRED        : U+1F312,U+1F318 : 🌒🌘
+*RESERVED        : U+1F312,U+1F318 : 🌒🌘
 PACKAGE-PRIVATE  : U+1F313         : 🌓🌗
 PROTECTED        : U+1F314,U+1F316 : 🌔🌖
 PUBLIC           : U+1F315         : 🌕
